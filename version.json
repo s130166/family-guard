@@ -1,1 +1,1 @@
-{"versionCode":17,"versionName":"1.7.0","apkUrl":"https://s130166.github.io/family-guard/familyguard-v1.7.0.apk","note":"①家人/设置页强制白底不再变黑；②家人页新增「请求位置」按钮，一键让家人立即上报；③设置页新增「隐藏常驻通知」；④点击家人头像/列表可跳转手机地图导航"}
+{"versionCode":19,"versionName":"1.7.2","apkUrl":"https://s130166.github.io/family-guard/familyguard-v1.7.2.apk","note":"新增后台自动更新：每6小时自动检查新版本并自动下载，下载完自动弹出安装确认，无需手动打开App"}
