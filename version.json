@@ -1,1 +1,1 @@
-{"versionCode":20,"versionName":"1.7.3","apkUrl":"https://s130166.github.io/family-guard/familyguard-v1.7.3.apk","note":"①点击地图家人头像直接弹出围栏设置（含导航按钮）②围栏设置页成员显示头像、点击头像弹出设置③自选围栏不再默认勾选自己④新增每2分钟保活定位，修复息屏后位置不更新导致的围栏提醒延迟"}
+{"versionCode":21,"versionName":"1.7.4","apkUrl":"https://s130166.github.io/family-guard/familyguard-v1.7.4.apk","note":"①修复点击家人头像弹出错误的围栏（点珊却弹源的围栏）②修复导航终点偏差：高德导航坐标已正确转换，终点与家人实际位置一致"}
