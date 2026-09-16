@@ -1,1 +1,1 @@
-{"versionCode":24,"versionName":"1.7.7","apkUrl":"https://s130166.github.io/family-guard/familyguard-v1.7.7.apk","note":"App 不再显示在最近任务/任务清理栏，后台静默运行，定位守护不受影响；需从桌面图标打开"}
+{"versionCode":25,"versionName":"1.7.8","apkUrl":"https://s130166.github.io/family-guard/familyguard-v1.7.8.apk","note":"借鉴定位手表：右侧按钮新增「我的位置」（点亮=显示自己头像并居中，灰色=隐藏自己只显示家人）和「刷新」（立即取位置+重新加载），原一键定位改刷新，按钮组整体上移，+ -保留"}
