@@ -1,1 +1,1 @@
-{"versionCode":28,"versionName":"1.7.11","apkUrl":"https://s130166.github.io/family-guard/familyguard-v1.7.11.apk","note":"修复核心定位Bug：移动中GPS新坐标不再被丢弃（原来只在精度更小时更新，导致外出后位置停滞在家、上报旧坐标），现在GPS新坐标直接采用，家人位置实时跟随移动；此Bug修复需所有家人手机都装本版本才生效"}
+{"versionCode":29,"versionName":"1.8.0","apkUrl":"https://s130166.github.io/family-guard/familyguard-v1.8.0.apk","note":"消息通道重大升级（解决地图显示未连接、家人位置不更新/停在旧位置）：①默认服务器改用EMQX国内节点broker-cn.emqx.io，新增WSS加密通道(8084)备用，连接失败自动切换服务器并指数退避重连②位置和头像改为每人独立保留频道，手机重连或新加入立即收到所有家人最后位置，不再丢消息③兼容旧版频道。重要：所有家人手机都需升级到本版本，否则混用会互相看不到位置"}
