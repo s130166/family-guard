@@ -1,1 +1,1 @@
-{"versionCode":19,"versionName":"1.7.2","apkUrl":"https://s130166.github.io/family-guard/familyguard-v1.7.2.apk","note":"新增后台自动更新：每6小时自动检查新版本并自动下载，下载完自动弹出安装确认，无需手动打开App"}
+{"versionCode":20,"versionName":"1.7.3","apkUrl":"https://s130166.github.io/family-guard/familyguard-v1.7.3.apk","note":"①点击地图家人头像直接弹出围栏设置（含导航按钮）②围栏设置页成员显示头像、点击头像弹出设置③自选围栏不再默认勾选自己④新增每2分钟保活定位，修复息屏后位置不更新导致的围栏提醒延迟"}
