@@ -1,1 +1,1 @@
-{"versionCode":21,"versionName":"1.7.4","apkUrl":"https://s130166.github.io/family-guard/familyguard-v1.7.4.apk","note":"①修复点击家人头像弹出错误的围栏（点珊却弹源的围栏）②修复导航终点偏差：高德导航坐标已正确转换，终点与家人实际位置一致"}
+{"versionCode":22,"versionName":"1.7.5","apkUrl":"https://s130166.github.io/family-guard/familyguard-v1.7.5.apk","note":"围栏设置新增「围栏名称」：点击头像弹出的围栏设置和围栏管理页均可输入名称或一键选择家/公司/学校/公园，围栏提醒显示对应名称"}
