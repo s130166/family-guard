@@ -1,1 +1,1 @@
-{"versionCode":26,"versionName":"1.7.9","apkUrl":"https://s130166.github.io/family-guard/familyguard-v1.7.9.apk","note":"右侧按钮改为统一圆形透明底样式（+ - 我 ↻），右对齐一条线并上移；我的位置默认蓝色点亮=显示自己头像，点击变灰=隐藏自己只显示家人"}
+{"versionCode":28,"versionName":"1.7.11","apkUrl":"https://s130166.github.io/family-guard/familyguard-v1.7.11.apk","note":"修复核心定位Bug：移动中GPS新坐标不再被丢弃（原来只在精度更小时更新，导致外出后位置停滞在家、上报旧坐标），现在GPS新坐标直接采用，家人位置实时跟随移动；此Bug修复需所有家人手机都装本版本才生效"}
