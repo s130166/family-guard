@@ -1,1 +1,1 @@
-{"versionCode":32,"versionName":"1.8.3","apkUrl":"https://s130166.github.io/family-guard/familyguard-v1.8.3.apk","note":"①移动即上报：GPS移动超过20米立即上报位置，走动时接近实时，静止时仍按原间隔省电 ②支持一个家人设置多个围栏（家、公司、学校可同时存在）：点地图头像或围栏设置页成员先弹出围栏列表，可新增/编辑/删除/开关 ③打开App时立即精确定位自己并请求家人上报 ④旧版单个围栏数据自动迁移"}
+{"versionCode":35,"versionName":"1.8.6","apkUrl":"https://gitee.com/s130166/family/raw/master/familyguard-v1.8.6.apk","note":"更新检查双源自动切换（GitHub被墙自动用Gitee），国内下载更快更稳"}
